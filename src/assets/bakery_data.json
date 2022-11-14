@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Chocolate Chip Cookies",
+        "description": "Four classic chocolate chip cookies",
+        "price": 7.99,
+        "gluten": false,
+        "dairy": false,
+        "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2019/01/Ultimate-Chocolate-Cookies-4.jpg",
+        "cal": 350,
+        "pop":1
+    },
+    {
+        "name": "Matcha Mille Crepe Cake",
+        "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+        "price": 4.99,
+        "cal": 290,
+        "gluten": true,
+        "dairy": true,
+        "pop":2,
+        "image": "https://www.indulgewithmimi.com/wp-content/uploads/2018/10/matcha-green-tea-mille-pancake-crepe-cake-japanese-1-735x735.jpg"
+    },
+    {
+        "name": "Egg Custard Bun",
+        "description": "A fluffy steamed bun with a savory egg filling",
+        "price": 2.99,
+        "cal": 150,
+        "pop":3,
+        "dairy": false,
+        "gluten": false,
+        "image": "https://takestwoeggs.com/wp-content/uploads/2021/05/Steamed-Egg-Custard-Buns-takestwoeggs-liu-sha-bao-Feature.jpg"
+    },
+    {
+        "name": "Steamed Taro Buns",
+        "description": "Two soft steamed buns filled with gooey purple taro filling",
+        "price": 5.99,
+        "cal": 300,
+        "gluten": false,
+        "dairy": true,
+        "pop":4,
+        "image": "https://www.ohmyfoodrecipes.com/wp-content/uploads/2022/03/taro-buns-open.jpg"
+    },
+    {
+        "name": "Chocolate Fudge Brownie",
+        "description": "A rich fudge brownie drizzled with chocolate ganache",
+        "price": 3.99,
+        "image": "https://img.buzzfeed.com/video-api-prod/assets/fafe8090b4f3434f80c33b6e4ce40e24/BFV21539_BestFudgyBrownies-ThumbB1080.jpg?resize=1200:*",
+        "cal": 233,
+        "dairy": false,
+        "gluten": true,
+        "pop": 5
+    },
+    {
+        "name": "Macarons",
+        "description": "A box of three macarons in assorted flavors",
+        "price": 4.99,
+        "image": "https://sallysbakingaddiction.com/wp-content/uploads/2021/02/french-macarons.jpg",
+        "cal": 130,
+        "dairy": true,
+        "gluten": false,
+        "pop": 6
+    },
+    {
+        "name": "Multigrain Bread",
+        "description": "A loaf of fresh-baked multigrain bread",
+        "price": 4.99,
+        "image": "https://assets.epicurious.com/photos/57d03a3e322465d63774ae07/master/pass/multi-grain-bread-with-sesame-flax-and-poppy-seeds.jpg",
+        "cal": 240,
+        "dairy": true,
+        "gluten": true,
+        "pop": 7
+    },
+    {
+        "name": "Croissant",
+        "description": "A classic butter croissant with a flaky crust",
+        "price": 2.99,
+        "image": "https://static01.nyt.com/images/2021/04/07/dining/06croissantsrex1/merlin_184841898_ccc8fb62-ee41-44e8-9ddf-b95b198b88db-threeByTwoMediumAt2X.jpg",
+        "cal": 100,
+        "dairy": true,
+        "gluten": true,
+        "pop": 8
+    },
+    {
+        "name": "Toast with Butter",
+        "description": "A slice of toast with a pat of butter",
+        "price": 1.99,
+        "image": "https://images.eatthismuch.com/img/254567_ldementhon_b5307778-b72b-4510-a611-c62a8099f23b.png",
+        "cal": 120,
+        "dairy": true,
+        "gluten": true,
+        "pop": 9
+    },
+    {
+        "name": "Tiramisu",
+        "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+        "price": 3.99,
+        "image": "https://sallysbakingaddiction.com/wp-content/uploads/2019/06/homemade-tiramisu-2.jpg",
+        "cal": 400,
+        "dairy": true,
+        "gluten": false,
+        "pop": 10
+    },
+    {
+        "name": "Egg Tart",
+        "description": "A flaky pastry shell filled with a sweet egg custard",
+        "price": 2.99,
+        "image": "https://img.buzzfeed.com/video-api-prod/assets/18da0a2f7c65489abdaaa1767aba847a/BFV6265_EggTart_FB_Thumbnail.jpg?resize=1200:*",
+        "cal": 90,
+        "dairy": true,
+        "gluten": true,
+        "pop": 11
+    },
+    {
+        "name": "Everything Bagel",
+        "description": "A toasted bagel with sesame seeds, poppy seeds, and dried onion",
+        "price": 2.99,
+        "image": "https://iambaker.net/wp-content/uploads/2020/04/everything-bagel-2.jpg",
+        "cal": 233,
+        "dairy": false,
+        "gluten": true,
+        "pop": 12
+    }
+]
