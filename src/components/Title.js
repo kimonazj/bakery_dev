@@ -1,8 +1,11 @@
+import '../App.css';
 export default function Title(){
     return(
         <>
-        <h1>
-            Welcome to My Bakery
+        <br></br>
+        <br></br>
+        <h1 className='title'>
+            🍰 Welcome to My Bakery 🥐
         </h1>           
         </>
         

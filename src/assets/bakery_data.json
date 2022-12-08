@@ -1,6 +1,6 @@
 [
     {
-        "name": "Chocolate Chip Cookies",
+        "name": "Choco Chip Cookies",
         "description": "Four classic chocolate chip cookies",
         "price": 7.99,
         "gluten": false,
@@ -10,8 +10,8 @@
         "pop":1
     },
     {
-        "name": "Matcha Mille Crepe Cake",
-        "description": "Layers of matcha crepe and matcha cream filling, topped with strawberries",
+        "name": "Matcha Crepe",
+        "description": "Layers of matcha crepe and matcha cream filling",
         "price": 4.99,
         "cal": 290,
         "gluten": true,
@@ -40,7 +40,7 @@
         "image": "https://www.ohmyfoodrecipes.com/wp-content/uploads/2022/03/taro-buns-open.jpg"
     },
     {
-        "name": "Chocolate Fudge Brownie",
+        "name": "Choco Brownie",
         "description": "A rich fudge brownie drizzled with chocolate ganache",
         "price": 3.99,
         "image": "https://img.buzzfeed.com/video-api-prod/assets/fafe8090b4f3434f80c33b6e4ce40e24/BFV21539_BestFudgyBrownies-ThumbB1080.jpg?resize=1200:*",
@@ -91,7 +91,7 @@
     },
     {
         "name": "Tiramisu",
-        "description": "A classic tiramisu with layers of coffee-soaked ladyfingers and mascarpone cream",
+        "description": "A classic tiramisu made with family recipe",
         "price": 3.99,
         "image": "https://sallysbakingaddiction.com/wp-content/uploads/2019/06/homemade-tiramisu-2.jpg",
         "cal": 400,

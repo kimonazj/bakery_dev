@@ -1,4 +1,7 @@
 @import '~antd/dist/antd.css';
+@import url('https://fonts.googleapis.com/css?family=Calistoga:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Marck+Script:regular,bold,italic&subset=latin,latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker:regular,bold,italic&subset=latin,latin-ext');
 .App {
   text-align: center;
 }
@@ -36,4 +39,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card-img{
+  height: 200px;
+}
+.card{
+  height: 600px;
+}
+.card-title{
+  font-family: "Calistoga";
+  font-size:20px;
+}
+.card p{
+  font-family: "Marck Script";
+  font-size:20px;
+}
+.card-info{
+  font-weight: bold;
+  font-family: "Marck Script";
+}
+.title{
+  font-family: "Permanent Marker";
 }

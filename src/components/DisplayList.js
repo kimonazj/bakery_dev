@@ -1,5 +1,6 @@
 // render the filtered list
 import {Card,Checkbox,Image, Col, Divider} from 'antd'
+import '../App.css';
 
 export default function DisplayList({curItem, calFunction, calList}){
     function ifChecked(){
@@ -13,12 +14,12 @@ export default function DisplayList({curItem, calFunction, calList}){
     return(
         <>
         <Col className='gutter-row' xs={23} md={10} xl={6} offset={1}>
-            <Card title={curItem.name} cover={<Image src={curItem.image}/>} >
-                <p>{curItem.description}</p>
+            <Card className="card" title={<b className='card-title'>{curItem.name}</b>} cover={<Image className="card-img" src={curItem.image}/>} >
+                <p className='card-info'>{curItem.description}</p>
                 <Divider></Divider>
                 <p>Calories: {curItem.cal}</p>
                 <p>Price: {curItem.price}</p>
-                <Checkbox defaultchecked={false} checked={ifChecked()} onClick={(e)=>{calFunction(e.target.checked, curItem)}}>Add to see total calories</Checkbox>
+                <Checkbox className="card-info" defaultchecked={false} checked={ifChecked()} onClick={(e)=>{calFunction(e.target.checked, curItem)}}>Add to see total calories</Checkbox>
             </Card>
         </Col>
         </>
