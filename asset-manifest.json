@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/bakery_dev/static/css/main.6c6c78d1.css",
-    "main.js": "/bakery_dev/static/js/main.9d82a0cd.js",
+    "main.css": "/bakery_dev/static/css/main.f6486c91.css",
+    "main.js": "/bakery_dev/static/js/main.950184b0.js",
     "index.html": "/bakery_dev/index.html",
-    "main.6c6c78d1.css.map": "/bakery_dev/static/css/main.6c6c78d1.css.map",
-    "main.9d82a0cd.js.map": "/bakery_dev/static/js/main.9d82a0cd.js.map"
+    "main.f6486c91.css.map": "/bakery_dev/static/css/main.f6486c91.css.map",
+    "main.950184b0.js.map": "/bakery_dev/static/js/main.950184b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c6c78d1.css",
-    "static/js/main.9d82a0cd.js"
+    "static/css/main.f6486c91.css",
+    "static/js/main.950184b0.js"
   ]
 }
